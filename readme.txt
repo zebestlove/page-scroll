@@ -1,0 +1,1 @@
+took from - https://ihatetomatoes.net/one-page-scroll-with-animations/
